@@ -11,7 +11,7 @@ I'm a **Data Analyst** passionate about turning raw data into clear, actionable 
 | **Data & Querying** | SQL · PostgreSQL · Microsoft SQL · MySQL |
 | **Visualisation** | Power BI · Tableau · Looker Studio |
 | **Automation** | Power Automate |
-| **Spreadsheets** | Excel |
+| **Spreadsheets** | Excel | Power Query
 
 ---
 
