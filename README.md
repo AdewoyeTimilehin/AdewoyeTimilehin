@@ -24,7 +24,7 @@ Analyzed viewer data for StreamWave to identify the top-performing content genre
 
 ---
 
-### 🏭 Evaluating Production Bottlenecks Through Downtime Analysis
+### 🏭 [Evaluating Production Bottlenecks Through Downtime Analysis](https://github.com/AdewoyeTimilehin/greentech-production-downtime-analysis)
 **Tools:** Microsoft SQL · Power BI
 
 Investigated GreenTech Manufacturing's production data to uncover scheduling bottlenecks and inefficiencies driving operational downtime. Built a data-driven framework to improve scheduling accuracy, reduce costs, and streamline production — shifting the company from guesswork to evidence-based planning.
