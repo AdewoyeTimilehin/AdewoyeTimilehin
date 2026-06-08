@@ -31,7 +31,7 @@ Investigated GreenTech Manufacturing's production data to uncover scheduling bot
 
 ---
 
-### 🚑 Real-Time Incident Tracking and Outcome Reporting
+### 🚑 [Real-Time Incident Tracking and Outcome Reporting](https://github.com/AdewoyeTimilehin/healthresponse-incident-tracking-looker-studio)
 **Tools:** Looker Studio · Power Automate
 
 Designed and implemented a real-time incident tracking system for HealthResponse Solutions, consolidating data from emergency response teams, patients, and outcomes into a centralized platform. Automated key workflows to surface actionable insights instantly — reducing response times and improving patient care outcomes through live data visibility.
