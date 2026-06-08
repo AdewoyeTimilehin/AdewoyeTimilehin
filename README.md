@@ -1,4 +1,4 @@
-# Hi there, I'm Timilehin 👋
+# Hi there, I'm Oluwatimilehin 👋
 
 I'm a **Data Analyst** passionate about turning raw data into clear, actionable insights. I work across the full analytics stack — from querying and transforming data to building dashboards and automating workflows.
 
