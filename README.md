@@ -38,7 +38,7 @@ Designed and implemented a real-time incident tracking system for HealthResponse
 
 ---
 
-### ⚙️ Predictive Maintenance for Hydraulic System
+### ⚙️ [Predictive Maintenance for Hydraulic System](https://github.com/AdewoyeTimilehin/bosch-rexroth-predictive-maintenance)
 **Tools:** PostgreSQL · Power BI
 
 Developed a predictive maintenance system using machine learning to anticipate hydraulic system failures before they occur. By analyzing real-time and historical sensor data, the system predicts Remaining Useful Life (RUL) and classifies failure modes — enabling proactive maintenance, reducing unplanned downtime, and supporting a shift from reactive to condition-based operations.
