@@ -17,7 +17,7 @@ I'm a **Data Analyst** passionate about turning raw data into clear, actionable 
 
 ## 📂 Featured Projects
 
-### 📺 Utilizing Viewers' Engagement for Strategic Content Investment in the Media & Entertainment Sector
+### 📺 [Utilizing Viewers' Engagement for Strategic Content Investment in the Media & Entertainment Sector](https://github.com/AdewoyeTimilehin/streamwave-viewers-engagement-analysis)
 **Tools:** Excel
 
 Analyzed viewer data for StreamWave to identify the top-performing content genres driving user engagement, retention, and growth. Delivered actionable Excel-based insights to guide smarter allocation of marketing, production, and licensing budgets — helping the business double down on what audiences actually watch.
